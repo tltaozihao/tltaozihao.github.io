@@ -85,13 +85,13 @@ analytics:
 author:
   name             : "个人信息"
   avatar           : "tao.png"
-  bio              : "清醒的在这个世界混时度日"
+  bio              : "期待放假"
   location         : "广东·广州"
   employer         : "香港科技大学（广州）"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   zhihu            : "people/zhoulvbang"
-  email            : "zhoulvbang@163.com"
+  email            : "tltaozihao2333@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhoulvbang"
+  github           : "tltaozihao"
   google_plus      :
   keybase          :
   instagram        :
