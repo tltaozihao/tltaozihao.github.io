@@ -26,7 +26,7 @@ Education
 
 Research Experience
 ======
-* 暂无
+* Optimized Header for Real-time Communication in the 5G Communication Network (Master Thesis project)
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
