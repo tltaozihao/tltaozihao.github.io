@@ -27,9 +27,11 @@ Education
 Research Experience
 ======
 * Optimized Header for Real-time Communication in the 5G Communication Network (Master Thesis project)
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Radar and AI for Human-Computer Interaction via Hand Gestures (09/2022–11/2022)
+* TCP BBRv2 Measurement Project (03/2022–06/2022)
+* Haptic Sensor Glove-Based Robotic Arm Control (09/2022–11/2022)
+* Remotely Operated Vehicle Design (08/2018–09/2019)
+* Compression Algorithm Circuit for CMOS Image Sensor (11/2020–06/2021)
 
   
 Skills
