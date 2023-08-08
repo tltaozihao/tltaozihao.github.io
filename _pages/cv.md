@@ -39,9 +39,9 @@ Skills
 * LaTeX
 * C/C++
 * Python
-Personal honor
 
-Honors
+
+Personal Honor
 ======
 * Second-level award for the 8th China Marine Vehicle Design and Construction Contest & the International Marine Vehicle Design and Construction Invitational Contest 2019
 * Excellent undergraduate student thesis and graduation with distinction
