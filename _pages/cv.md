@@ -37,12 +37,8 @@ Research Experience
 Skills
 ======
 * LaTeX
+* C/C++
 * Python
-   * Data Analysis
-   * Web Crawler
-* SPSS
-* CET-4/CET-6
-
 Personal honor
 ======
 * 湖南中医药大学校级一等奖学金，2019-2020
