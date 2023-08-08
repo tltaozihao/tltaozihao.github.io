@@ -24,7 +24,7 @@ Education
 * Ph.D. (2023-present) 
   * Internet of Things, The Hongkong University of Science and Technology (Guangzhou)
 
-Work experience
+Research Experience
 ======
 * 暂无
   * Github University
