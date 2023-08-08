@@ -10,6 +10,6 @@ citation: 'Z. Tao, J. Qiao, L. Jiang and L. Han, "Balancing Algorithm and Active
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/zihao_paper.pdf)
 
 推荐引文格式: Z. Tao, J. Qiao, L. Jiang and L. Han, "Balancing Algorithm and Active Shutter Improved ROV Monitoring and Control Platform Using Mobile Phone," 2020 IEEE 6th International Conference on Computer and Communications (ICCC), Chengdu, China, 2020, pp. 2340-2344, doi: 10.1109/ICCC51575.2020.9344986.
