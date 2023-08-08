@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* 公共事业管理, 湖南中医药大学 2019-2023
-  * GPA：3.69/5
-  * 专业排名：15%
+* Bachelor's Degree
+  * Microelectronics, Harbin Institute of Technology (Weihai) 2017-2021
+  * GPA：89/100
+  * Ranking：10%
 
 Work experience
 ======
