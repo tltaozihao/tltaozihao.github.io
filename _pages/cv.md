@@ -41,9 +41,13 @@ Skills
 * Python
 Personal honor
 
-Honor
+Honors
 ======
 * Second-level award for the 8th China Marine Vehicle Design and Construction Contest & the International Marine Vehicle Design and Construction Invitational Contest 2019
+* Excellent undergraduate student thesis and graduation with distinction
+* First-class Scholarship two times
+* Second-class Scholarship five times
+* First prize in the National Undergraduate Electronics Design Contest, Harbin Institute of Technology
 
 Publications
 ======
