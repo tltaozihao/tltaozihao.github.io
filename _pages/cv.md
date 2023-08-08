@@ -20,6 +20,9 @@ Education
   * Wireless Communication and Sensing, Delft University of Technology (TU Delft)
   * GPA：7.2/10
   * Ranking：50%
+ 
+* Ph.D. (2023-present) 
+  * Internet of Things, The Hongkong University of Science and Technology (Guangzhou)
 
 Work experience
 ======
