@@ -40,8 +40,10 @@ Skills
 * C/C++
 * Python
 Personal honor
+
+Honor
 ======
-* 湖南中医药大学校级一等奖学金，2019-2020
+* Second-level award for the 8th China Marine Vehicle Design and Construction Contest & the International Marine Vehicle Design and Construction Invitational Contest 2019
 
 Publications
 ======
