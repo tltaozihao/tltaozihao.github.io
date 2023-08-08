@@ -15,6 +15,11 @@ Education
   * Microelectronics, Harbin Institute of Technology (Weihai)
   * GPA：89/100
   * Ranking：10%
+ 
+* Master's Degree (2021-2023) 
+  * Wireless Communication and Sensing, Delft University of Technology (TU Delft)
+  * GPA：7.2/10
+  * Ranking：50%
 
 Work experience
 ======
