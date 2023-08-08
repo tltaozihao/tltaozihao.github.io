@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Bachelor's Degree
-  * Microelectronics, Harbin Institute of Technology (Weihai) 2017-2021
+* Bachelor's Degree 2017-2021
+  * Microelectronics, Harbin Institute of Technology (Weihai)
   * GPA：89/100
   * Ranking：10%
 
