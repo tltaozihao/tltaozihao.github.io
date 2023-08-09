@@ -21,6 +21,7 @@ Related Link
 ======
 - [HKUST (GZ)](https://www.hkust-gz.edu.cn/)
 - [TU Delft](https://www.tudelft.nl/en/)
+- [HIT (WH)](https://www.hitwh.edu.cn/)
 
 
 
