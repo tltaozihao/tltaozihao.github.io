@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-这是由 [academicpages template](https://github.com/academicpages/academicpages.github.io) 提供支持并托管在 GitHub 页面上的网站的首页。 [GitHub pages](https://pages.github.com) 是一项免费服务，在该服务中，网站是根据存储在 GitHub 存储库中的代码和数据构建和托管的，当对存储库进行新提交时会自动更新。这个模板是从 Michael Rose 创建的 [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) 衍生出来的，然后扩展到支持学术界拥有的各种内容：出版物、演讲、教学、作品集、博客文章和动态生成的简历。现在就可以fork [this repository](https://github.com/zhoulvbang/zhoulvbang.github.io)，修改配置和markdown文件，添加自己的PDF等内容，免费拥有自己的站点，没有广告！这个模板的旧版本支持我自己的个人网站 [stuartgeiger.com](http://stuartgeiger.com)，它使用 [this Github repository](https://github.com/staeiou/staeiou.github.io )
+Zihao (Jack) Tao received his B.Eng degree in Microelectronics from Harbin Institute of Technology (Weihai), China, in 2021, and will receive his MSc degree from Delft University of Technology (TU Delft), Netherlands in 2023. He is now a research assistant at The Hong Kong University of Science and Technology (Guangzhou).
 
-![初步的学术主页页面](https://github.com/zhoulvbang/zhoulvbang.github.io/blob/master/images/firstpage50k.png)
+Research Interest
+======
+
+- Integrated Sensing and Communication (ISAC)
+- Wireless Communication
+- Internet of Things 
+
 
 A data-driven personal website：一个数据驱动的个人网站
 ======
