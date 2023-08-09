@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "欢迎来到陶子豪的学术主页"
+title: "Welcome to the homepage of Jack Tao"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
