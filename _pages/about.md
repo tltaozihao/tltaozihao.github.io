@@ -19,7 +19,7 @@ Research Interest
 
 Related Link
 ======
-- HKUST (GZ) (https://www.hkust-gz.edu.cn/)
+- [HKUST (GZ)](https://www.hkust-gz.edu.cn/)
 
 
 
