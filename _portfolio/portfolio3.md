@@ -1,6 +1,6 @@
 ---
-title: "TU Delft"
-excerpt: "Photos about study and life in TU Delft <br/><img src='/images/photo3.jpg'>"
+title: "HIT(WH)"
+excerpt: "Photos about study and life in HIT(WH) <br/><img src='/images/photo3.jpg'>"
 collection: portfolio
 ---
 
