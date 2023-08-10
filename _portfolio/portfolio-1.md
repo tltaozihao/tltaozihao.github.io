@@ -12,5 +12,9 @@ This vision of transforming the future fits well to the master plan of the devel
 
 To conceive this new vision of HKUST, the University signed a tripartite agreement with the Guangzhou Municipal Government and Guangzhou University in 2018. Under the agreement, the University will jointly establish HKUST(GZ) in the Nansha district of Guangzhou with full support of the local authority and partner. With the preparatory approval already obtained in 2019, HKUST is vigorously progressing to the next phase of this important milestone.
 
+<img src='/images/HKUST1.jpg'>
+<img src='/images/HKUST2.jpg'>
+<img src='/images/HKUST3.jpg'>
+
 
 
