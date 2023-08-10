@@ -5,4 +5,7 @@ collection: portfolio
 ---
 
 <img src='/images/photo2.jpg'>
+<img src='/images/Delft1.jpg'>
+<img src='/images/Delft2.jpg'>
+<img src='/images/Delft3.jpg'>
 
