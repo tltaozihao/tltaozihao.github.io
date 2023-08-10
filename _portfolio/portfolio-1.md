@@ -5,6 +5,7 @@ collection: portfolio
 ---
 
 <img src='/images/photo1.jpg'>
+
 The Hong Kong University of Science and Technology (Guangzhou) (HKUST(GZ)) indeed is the realization of this ambition to transform education for the future, with its cross-disciplinary academic structure designed to complement the well-established disciplinary foundation at the Clear Water Bay campus.
 
 This vision of transforming the future fits well to the master plan of the development of the Greater Bay Area (GBA) which will serve as a strategic hub to catalyze the combined talents of the special administrative regions of Hong Kong and Macao, and nine cities in Guangdong Province. The initiative will also strengthen knowledge transfer to bridge Hong Kong’s gap in high-tech manufacturing through the strong mainland supply chain network.
